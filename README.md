@@ -28,7 +28,7 @@
   * Название - Оплатить картой Visa/MasterCard ("AssetPayments")
   * Идентификатор магазина - укажите Ваш ID мерчанта
   * Пароль - 1234567890
-  * URL внешнего сервиса - https://assetpayments.com/insales/insales.php
+  * URL внешнего сервиса - https://assetpayments.com/platforms/insales/insales.php
   * Передавать детальную информацию о заказе - Да
   * Сообщение для пользователя - Оплатить картой Visa/MasterCard ("AssetPayments")
   * Наценка - 0.0
