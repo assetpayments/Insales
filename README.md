@@ -9,7 +9,7 @@
   * Name - Pay by Visa/MasterCard ("AssetPayments")
   * Shop identificator - your Merchant Id
   * Password - 1234567890
-  * Remote service URL - https://assetpayments.com/insales/insales.php
+  * Remote service URL - https://assetpayments.com/platforms/insales/insales.php
   * Send detail order info - yes
   * Message to the customer - Pay by Visa/MasterCard ("AssetPayments")
   * MarkUp - 0.0
